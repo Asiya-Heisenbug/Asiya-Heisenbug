@@ -12,7 +12,7 @@ Python, Java, HTML/CSS, JavaScript
 AI/ML experimentation and Python libraries
 Basic UI/UX design for projects
 
-A Bit About Me
+A Bit About Me-
 
 * 🐱 **Cat lover** — I have Missy and her kittens at home
 * 💖 **I love public speaking** and motivating people
