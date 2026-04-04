@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ![e2065c7ab88cd3119ad243d4c518d095](https://github.com/user-attachments/assets/20034066-0537-4f51-bd7f-fd6067f6e6bd)
-I'm Asiya, a BSc
- Computer Science student specializing in AI, based in India.
+
+
+I'm Asiya, a BSc Computer Science student specializing in AI, based in India.
 
 I mostly work on Python and Java projects, and I’m exploring AI applications, web development, and hands-on coding experiments. I also like designing small apps and interactive projects that mix tech with creativity.
 
